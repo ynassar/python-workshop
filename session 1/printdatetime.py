@@ -6,8 +6,15 @@
 
 # To be able to reference the code in a module, we must "import" it first.
 
+import datetime
+
 # We can also import specific functions from within the module.
+
 
 # Get the current date and time by calling the datetime.now() (as datetime.datetime.now() or datetime.now()) function, and store it in a variable.
 
+time = datetime.datetime.now()
+
 # Print the current date and time to the console.
+
+print(time)

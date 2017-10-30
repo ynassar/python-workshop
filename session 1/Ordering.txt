@@ -5,7 +5,6 @@
 5. monthname.py
 6. primessquared.py
 7. playwithprimes.py
-8. vowelconsonantcheckerfor.py
 9. vowelconsonantcheckerin.py
 10. threefivemultiples.py
 11. reversesentence.py
