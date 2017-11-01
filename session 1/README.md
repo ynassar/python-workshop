@@ -1,3 +1,4 @@
+# Session 1
 1. helloworld.py
 2. bmicalculator.py / interestcalculator.py
 3. printdatetime.py
@@ -9,6 +10,3 @@
 10. threefivemultiples.py
 11. reversesentence.py
 (use string.format()s)
-12. salary.py
-13. threefivemultiplesoneline.py
-14. runningclock.py
