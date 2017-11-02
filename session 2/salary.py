@@ -3,7 +3,7 @@
 
 # Create a dict "salary" that maps employee names to their salaries.
 
-# Open the file using open() and a with: statement.
+# Open the file using open() and a with: statement. (The salaries.csv file is in the data directory).
 
 # Iterate over the lines of the file.
 
