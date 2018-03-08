@@ -7,5 +7,6 @@
 # To install the guessit module from pip, we open a terminal and run "pip install guessit". The module is now installed on python.
 
 # We then import the module.
-
+from guessit import guessit
 # guessit has a method called guessit() that returns the episode number, season number, and expected title.
+print(guessit.guessit('hi'))
